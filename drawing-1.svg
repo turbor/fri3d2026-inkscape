@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21.631096mm"
+   height="28.559742mm"
+   viewBox="0 0 21.631096 28.559742"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.3094837"
+     inkscape:cx="32.677377"
+     inkscape:cy="70.534165"
+     inkscape:window-width="1874"
+     inkscape:window-height="1016"
+     inkscape:window-x="46"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-89.069813,-25.828327)">
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.954006"
+       id="path846"
+       cx="99.885361"
+       cy="43.572521"
+       rx="9.8655481"
+       ry="9.8655472" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.954006"
+       id="path846-9"
+       cx="99.885361"
+       cy="30.032547"
+       rx="3.2542202"
+       ry="3.25422" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.605347"
+       y="47.075977"
+       id="text2045"><tspan
+         sodipodi:role="line"
+         id="tspan2043"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="92.605347"
+         y="47.075977">Els</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 90.885086,47.423335 H 108.75639"
+       id="path30232" />
+  </g>
+</svg>
